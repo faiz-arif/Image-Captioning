@@ -2,6 +2,7 @@
 
 ## How to run
 
+- `py -m venv env`
 - `.\env\Scripts\activate`
 - `pip install -r requirements.txt`
-- `streamlit run main.py`
+- `streamlit run app.py`
